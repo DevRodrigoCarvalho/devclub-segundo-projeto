@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img width="350vw" src="https://github.com/DevRodrigoCarvalho/devclub-segundo-projeto/blob/1175d23a6c480714621798a51f653b7c09a57e60/img/Illustration.png" alt="logo_illustration"/>
+<img width="300vw" src="https://github.com/DevRodrigoCarvalho/devclub-segundo-projeto/blob/1175d23a6c480714621798a51f653b7c09a57e60/img/Illustration.png" alt="logo_illustration"/>
 </p>
 
 Este é meu segundo projeto como aluno da DevClub.
