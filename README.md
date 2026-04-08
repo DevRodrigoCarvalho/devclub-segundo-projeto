@@ -1,6 +1,9 @@
-<h1>
-  <img height="50" alt="image" src="https://github.com/user-attachments/assets/c3ed786b-de53-49e3-a3f9-2eb954096c85"/>Segundo Projeto - DevClub<img height="50" alt="image" src="https://github.com/user-attachments/assets/c3ed786b-de53-49e3-a3f9-2eb954096c85"/>
-</h1>
+<div align="center" style="vertical-align: middle; margin: 0; padding: 0;">
+  <img height="250" alt="image" src="https://github.com/DevRodrigoCarvalho/img-para-utilizar-no-github/blob/main/logo-red-dragon-sem-fundo.png"/>
+  <h1>
+    Segundo Projeto - DevClub Academy
+  </h1>
+</div>
 
 <p align="center">
 <img height="300vw" src="https://github.com/DevRodrigoCarvalho/devclub-segundo-projeto/blob/1175d23a6c480714621798a51f653b7c09a57e60/img/Illustration.png" alt="logo_illustration"/>
