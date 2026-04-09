@@ -12,7 +12,9 @@
 ---
 
 ## <img height="20" alt="image" src="https://github.com/user-attachments/assets/d590403e-d286-4bf8-b2df-baebce0d40c1"/> Sobre o projeto
-Projeto desenvolvido com o objetivo de aplicar conceitos fundamentais de desenvolvimento Front-End, criando uma interface moderna, responsiva e visualmente agradável.
+<p>
+  Projeto desenvolvido com o objetivo de aplicar conceitos fundamentais de desenvolvimento Front-End, criando uma landing page moderna, responsiva e focada na experiência do usuário.
+</p>
 
 ---
 
@@ -37,7 +39,7 @@ GitHub: https://github.com/DevRodrigoCarvalho/devclub-segundo-projeto/
 
 ## <img height="30" alt="image" src="https://github.com/user-attachments/assets/d5c75e84-490d-4ee0-ae82-f3b8a126f143"/> Demonstração
 <div>
-  <p>Interface visual desenvolvida com foco em organização, estética e adaptação para diferentes tamanhos de tela.</p>
+  <p>Interface visual desenvolvida para apresentar produtos de forma organizada, com foco em usabilidade, hierarquia visual e adaptação para diferentes dispositivos.</p>
 </div>
 
 ---
