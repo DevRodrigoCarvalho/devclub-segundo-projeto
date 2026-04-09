@@ -1,21 +1,44 @@
 <div align="center" style="vertical-align: middle; margin: 0; padding: 0;">
   <img height="250" alt="image" src="https://github.com/DevRodrigoCarvalho/img-para-utilizar-no-github/blob/main/logo-red-dragon-sem-fundo.png"/>
   <h1>
-    Segundo Projeto - DevClub Academy
+    Easy Shopping
   </h1>
 </div>
 
 <p align="center">
-<img height="300vw" src="https://github.com/DevRodrigoCarvalho/devclub-segundo-projeto/blob/1175d23a6c480714621798a51f653b7c09a57e60/img/Illustration.png" alt="logo_illustration"/>
+<img height="250vw" src="https://github.com/DevRodrigoCarvalho/devclub-segundo-projeto/blob/1175d23a6c480714621798a51f653b7c09a57e60/img/Illustration.png" alt="preview_projeto"/>
 </p>
 
-Este é meu segundo projeto como aluno da DevClub.
-Desenvolvi uma aplicação com foco em criatividade, responsividade e boas práticas de desenvolvimento front-end.
+---
 
 ## <img height="20" alt="image" src="https://github.com/user-attachments/assets/d590403e-d286-4bf8-b2df-baebce0d40c1"/> Sobre o projeto
-O objetivo deste projeto foi aplicar na prática conceitos iniciais de desenvolvimento web, criando uma interface moderna e adaptável para diferentes dispositivos.
+Projeto desenvolvido com o objetivo de aplicar conceitos fundamentais de desenvolvimento Front-End, criando uma interface moderna, responsiva e visualmente agradável.
 
-Link do projeto: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
+---
+
+## <img width="30" alt="image" src="https://github.com/user-attachments/assets/1a95fe4e-18d1-441b-852b-366af0c20b74"/> Funcionalidades
+<div>
+  <ul>
+    <li>Layout moderno e organizado</li>
+    <li>Design responsivo para diferentes dispositivos</li>
+    <li>Estruturação semântica com HTML</li>
+    <li>Estilização com foco em experiência do usuário</li>
+  </ul>
+</div>
+
+---
+
+## <img width="28" alt="image" src="https://github.com/user-attachments/assets/44ee562e-a94d-418a-9c32-45a881244b3d"/> Acesse ao projeto
+Deploy: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
+<br/>
+GitHub: https://github.com/DevRodrigoCarvalho/devclub-segundo-projeto/
+
+---
+
+## <img height="30" alt="image" src="https://github.com/user-attachments/assets/d5c75e84-490d-4ee0-ae82-f3b8a126f143"/> Demonstração
+<div>
+  <p>Interface visual desenvolvida com foco em organização, estética e adaptação para diferentes tamanhos de tela.</p>
+</div>
 
 ---
 
@@ -33,22 +56,33 @@ Link do projeto: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
 <div>
   <p>O projeto foi desenvolvido com foco em responsividade, garantindo uma boa experiência em:</p>
   <ul>
-    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/866d24c1-72b9-4470-be3f-7e434eb9345b"/> Desktop</li>
-    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/5b85d4ff-e219-45d0-b87d-b73f4309d75e"/> Tablet
-    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/5d0492ea-1a4f-433d-b002-98f23c4d5784"/> Mobile</li>
+    <li><img width="20" alt="Desktop" src="https://github.com/user-attachments/assets/866d24c1-72b9-4470-be3f-7e434eb9345b"/> Desktop</li>
+    <li><img width="20" alt="Tablet" src="https://github.com/user-attachments/assets/5b85d4ff-e219-45d0-b87d-b73f4309d75e"/> Tablet</li>
+    <li><img width="20" alt="Mobile" src="https://github.com/user-attachments/assets/5d0492ea-1a4f-433d-b002-98f23c4d5784"/> Mobile</li>
   </ul>
 </div>
 
 ---
 
-## <img height="23" alt="image" src="https://github.com/user-attachments/assets/98604ea2-caeb-48c9-aab8-779bcd405198"/> Aprendizados
+## <img height="28" alt="image" src="https://github.com/user-attachments/assets/ae06d080-48b2-42b5-9411-900b52334ddc"/> Aprendizados
 <div>
-  <p>Durante o desenvolvimento deste projeto, pude aprender e reforçar:</p>
+  <p>Durante o desenvolvimento deste projeto, foram aplicados conceitos como:</p>
   <ul>
-    <li>Estruturação de páginas com HTML</li>
+    <li>Estruturação semântica com HTML</li>
     <li>Estilização com CSS</li>
     <li>Conceitos de responsividade</li>
-    <li>Organização de código</li>
+    <li>Organização e padronização de código</li>
+  </ul>
+</div>
+
+---
+
+## <img height="30" alt="image" src="https://github.com/user-attachments/assets/f1eb8107-2736-4a8f-ab97-93d53ecd7b6d"/> Desafios
+<div>
+  <ul>
+    <li>Adaptar o layout para diferentes tamanhos de tela</li>
+    <li>Manter consistência visual entre os elementos</li>
+    <li>Organizar o código de forma limpa e escalável</li>
   </ul>
 </div>
 
@@ -56,7 +90,7 @@ Link do projeto: https://devrodrigocarvalho.github.io/devclub-segundo-projeto/
 
 ## <img width="25" alt="image" src="https://github.com/user-attachments/assets/3ba58ebc-3d03-40d9-85f6-d1408d4b8165"/> Autor
 <p>
-  Feito por <i>Rodrigo Carvalho</i>
+  Desenvolvido por <i>Rodrigo Carvalho</i>
   <br/>
-  <img width="15" alt="image" src="https://github.com/user-attachments/assets/191e0cf7-cbf7-40fe-912c-30253c4e301a"/> Em transição para a área de desenvolvimento Front-End
+  Em transição para a área de desenvolvimento Front-End
 </p>
